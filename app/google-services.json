@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "785079365841",
+    "firebase_url": "https://emailsigning-6d786.firebaseio.com",
+    "project_id": "emailsigning-6d786",
+    "storage_bucket": "emailsigning-6d786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785079365841:android:84625ef4a204ca2a",
+        "android_client_info": {
+          "package_name": "com.agesa.agesa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785079365841-dbptcr85qteg5lma4c9jkkkalg7bc820.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxk55OV7UNtq2Wbm1FUbMAdBVW44ey7rA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785079365841-dbptcr85qteg5lma4c9jkkkalg7bc820.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

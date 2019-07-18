@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">agesa</string>
+
+
+    <string name="getStarted">GetStarted</string>
+    <string name="Sign_up">SIGN UP</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="btn_submit">SUBMIT</string>
+    <string name="confirm_password">Confirm Password</string>
+
+
+</resources>
